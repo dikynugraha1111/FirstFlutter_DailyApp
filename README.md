@@ -2,10 +2,10 @@
 
 A new Flutter project.
 
-This Project included features:
--Google Auth
--CRUD Firebase
--Image upload
+This Project included features=
+   - Google Auth
+   - CRUD Firebase
+   - Image upload
 
 Plugin req:
 -ImagePicker
