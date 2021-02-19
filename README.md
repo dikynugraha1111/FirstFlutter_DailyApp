@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+This Project included features:
+-Google Auth
+-CRUD Firebase
+-Image upload
+
+Plugin req:
+-ImagePicker
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
