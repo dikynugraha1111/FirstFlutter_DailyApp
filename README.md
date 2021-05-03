@@ -34,17 +34,21 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShot
 
-- Login
-  ![Login](img/Login1.png)
+Login
 
-- Google Auth
-  ![GAuth](img/googleAuth.png)
+![Login](img/Login1.png)
 
-- Home
-  ![Home](img/Home.png)
+Google Auth
 
-- Create Data
-  ![create](img/createData.png)
+![GAuth](img/googleAuth.png)
+
+Home
+
+![Home](img/Home.png)
+
+Create Data
+
+![create](img/createData.png)
 
 ## Contributing
 
